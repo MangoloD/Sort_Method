@@ -56,9 +56,9 @@
 ## 六、快速排序
 快排的实现方式多种多样，最简单易懂的是`分治+迭代`
 ## 1. 过程图解
-![]()
+![](https://github.com/MangoloD/Sort_Method/blob/master/images/quick_sort.jpg?raw=true)
 
-    一行代码实现快排：
+一行代码实现快排：
 ```
 quick_sort = lambda array: array if len(array) <= 1 else quick_sort([item for item in array[1:] if item <= array[0]]) + [array[0]] + quick_sort([item for item in array[1:] if item > array[0]])
 ```
