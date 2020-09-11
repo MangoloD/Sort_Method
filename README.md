@@ -6,5 +6,4 @@
 
 首先用一张图了解下各排序方法的时间复杂度、空间复杂度及其稳定性
 
-![]
-(https://github.com/MangoloD/Sort_Method/blob/master/images/排序方法及其复杂度.jpg)
+![Image Text](https://github.com/MangoloD/Sort_Method/blob/master/images/排序方法及其复杂度.jpg)
