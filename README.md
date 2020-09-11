@@ -13,5 +13,5 @@
 2. 经过一轮比较，最大的元素将排在最后一个位置，重复1中的操作，第二大的元素会排在倒数第二的位置，第三大的元素则会排在倒数第三个位置  
 以此类推，我们只要重复n-1同样的操作即可完成排序。
 ### 3. 代码实现
-![](https://github.com/MangoloD/Sort_Method/blob/master/sort_.py)
+![code](https://github.com/MangoloD/Sort_Method/blob/master/sort_.py)
 
